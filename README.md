@@ -19,7 +19,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftkemza%2Fwebscrap&title=Visitors&edge_flat=false"/></a>
 </p>
 
-<p align="center"><b>Web status fast checker.</b></p>
+<p align="center"><b>Web status fast checker and an automated tool for monitoring website responses</b></p>
 
 ##
 
