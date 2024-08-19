@@ -137,7 +137,7 @@ To use this tool:
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnv4QSiGY1-TTWDZIxbcoDjfWOR0FO8XaNk4AkYaPYZyCqZ0nHq9y2TNBLQuKQMsDngq0&usqp=CAU" alt="Project Logo" width="300"/>
-    <h1>GPL LICENSE 2024 Tkemza</h1>
+    <h1 align="center">GPL LICENSE 2024 Tkemza</h1>
 </p>
 
 
