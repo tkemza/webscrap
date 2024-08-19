@@ -99,11 +99,9 @@ To use this tool:
 1. **Clone the Repository:**
    ```
    git clone https://github.com/tkemza/webscrap.git
-
 3. **Enter directory:**
     ```
     cd webscrap
-
 2. **Run the Script**: Execute the script using:
    ```
    ./webscrap.sh
@@ -127,7 +125,6 @@ To use this tool:
 - To run makefile, type:
     ```
     make Makefile
-
 -----
 # Docker
 
@@ -135,7 +132,6 @@ To use this tool:
     ```
     docker build -t webscrap-tool .
     docker run --rm -it webscrap-tool
-
 -----
 # GPL License
 
