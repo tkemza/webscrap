@@ -45,16 +45,13 @@ It only demonstrates "how scanning works". <b>You shall not misuse the informati
     ```
     sudo apt install python3
     sudo apt install python3-pip
-
 2. Check if version is valid:
     ```
     python3 --version
     pip3 --version
-
 3. Run `install.py`:
     ```
     python3 install.py
-
 -----
 ## Table of Contents
 - [Features](#features)
@@ -103,21 +100,17 @@ To use this tool:
    ```
    git clone https://github.com/tkemza/webscrap.git
 
-
 3. **Enter directory:**
     ```
     cd webscrap
 
-
 2. **Run the Script**: Execute the script using:
    ```
    ./webscrap.sh
-
 3. or:
     ```
     chmod +x webscrap.sh
     bash webscrap.sh
-
 -----
 ## Requirements
 
@@ -143,12 +136,12 @@ To use this tool:
     docker build -t webscrap-tool .
     docker run --rm -it webscrap-tool
 
-
 -----
 # GPL License
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnv4QSiGY1-TTWDZIxbcoDjfWOR0FO8XaNk4AkYaPYZyCqZ0nHq9y2TNBLQuKQMsDngq0&usqp=CAU" alt="Project Logo" width="300"/>
+    <h1>GPL LICENSE 2024 Tkemza</h1>
 </p>
 
 
